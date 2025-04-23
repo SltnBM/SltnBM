@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=600&lines=I+am+Sultan+Badra+👋;Web+Enthusiast+💻;Cyber+Security+Enthusiast+🛡️;Always+Learning+and+Building+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=600&lines=Hi+there+👋;I+am+Sultan+Badra+🧑‍💻;Web+Enthusiast+💻;Cyber+Security+Enthusiast+🛡️;Always+Learning+and+Building+🧠)](https://git.io/typing-svg)
 
 <!--
 **SltnBM/SltnBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
