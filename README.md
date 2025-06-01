@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=600&lines=Hi+there+👋;I+am+Sultan+Badra+🧑‍💻;Web+Enthusiast+💻;Cyber+Security+Enthusiast+🛡️;Always+Learning+and+Building+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=600&lines=Hi+there+👋;I+am+Sultan+Badra+🧑‍💻;IT+Enthusiast+💻;Cyber+Security+Enthusiast+🛡️;Always+Learning+and+Building+🧠)](https://git.io/typing-svg)
 
 # 🔥 My Tech Stack 💡
 <div align="center">
