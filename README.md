@@ -82,6 +82,9 @@
   </a>
 </div>
 
-<h2 align="left">Game</h2>
-
-<img src="https://raw.githubusercontent.com/SltnBM/SltnBM/output/snake.svg" alt="Snake animation" />
+## Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SltnBM/SltnBM/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SltnBM/SltnBM/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SltnBM/SltnBM/output/pacman-contribution-graph.svg">
+</picture>
