@@ -82,3 +82,6 @@
   </a>
 </div>
 
+<h2 align="left">Game</h2>
+
+<img src="https://raw.githubusercontent.com/SltnBM/SltnBM/output/snake.svg" alt="Snake animation" />
