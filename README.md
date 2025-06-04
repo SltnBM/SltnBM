@@ -72,17 +72,10 @@
   </table>
 </div>
 
-# 🤝 📬 Connect with me:
-<div align="left">
-  <a href="mailto:sultanbadra06@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=flat-square" height="28" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/sultan-badra/" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=flat-square" height="28" alt="linkedin logo" />
-  </a>
-</div>
+# Connect with me 🤝
+![mailto:sultanbadra06@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.linkedin.com/in/sultan-badra/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## Game
+# Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SltnBM/SltnBM/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SltnBM/SltnBM/output/pacman-contribution-graph.svg">
