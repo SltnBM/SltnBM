@@ -1,5 +1,5 @@
-# About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=600&lines=Hi+there+👋;I+am+Sultan+Badra+🧑‍💻;IT+Enthusiast+💻;Cyber+Security+Enthusiast+🛡️;Always+Learning+and+Building+🧠)](https://git.io/typing-svg)
+## About Me 🧑‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=00FF00&width=1000&lines=Hi+there+👋;I+am+Sultan+Badra;Coding+Enthusiast;Ethical+Hacker;Lifelong+Learner)](https://git.io/typing-svg)
 
 ## My Current Tech Stack 🔥
 <div align="center">
@@ -78,7 +78,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultan-badra/)
 
 
-## Game
+## Game 🎮
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SltnBM/SltnBM/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SltnBM/SltnBM/output/pacman-contribution-graph.svg">
