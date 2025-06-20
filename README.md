@@ -1,5 +1,5 @@
 ## About Me 🧑‍💻
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=00FF00&width=1000&lines=Hi+there+👋;I+am+Sultan+Badra;Coding+Enthusiast;Ethical+Hacker;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=00FF00&width=1000&lines=Hi+there+👋;I+am+Sultan+Badra;IT+Enthusiast;Cybersecurity+Enthusiast;Ethical+Hacker;Lifelong+Learner)](https://git.io/typing-svg)
 
 ## My Current Tech Stack 🔥
 <div align="center">
